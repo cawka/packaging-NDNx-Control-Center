@@ -1,0 +1,5 @@
+ndnx-control-center (0.2-ppa1~precise1) precise; urgency=low
+
+  * Initial release of Ubuntu packaging
+
+ -- Alexander Afanasyev <alexander.afanasyev@ucla.edu>  Tue, 09 Nov 2013 21:41:31 -0800

@@ -1,0 +1,1 @@
+?package(ndnx-control-center): needs="X11" section="Applications/Network/Monitoring" title="NDNx Control Center" command="/usr/bin/ndnx-control-center" icon="/usr/share/ndnx-control-center/ndnx-main.xpm"
