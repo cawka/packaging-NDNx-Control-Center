@@ -1,3 +1,11 @@
+ndnx-control-center (0.2.1-1ppa1~precise1) precise; urgency=low
+
+  [ Ilya Moiseenko ]
+  * Check for duplicate NDNx Control Centers
+  * power management
+
+ -- Alexander Afanasyev <alexander.afanasyev@ucla.edu>  Sun, 10 Nov 2013 14:48:36 -0800
+
 ndnx-control-center (0.2-ppa3~precise1) precise; urgency=low
 
   * Add missing run-time and build dependencies (ndnx and xsltproc)
